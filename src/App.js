@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         지금은 23 11 08 / 11시 51분
+         지금은 23 11 08 / 12시 01분
         </a>
       </header>
     </div>
